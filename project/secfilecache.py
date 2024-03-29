@@ -1,5 +1,5 @@
 
-import slugify
+from slugify import slugify
 import pandas
 
 print(f"This is the secfilecache module!")
