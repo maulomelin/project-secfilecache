@@ -1,0 +1,7 @@
+pyproject.toml
+foobar_secfilecache.egg-info/PKG-INFO
+foobar_secfilecache.egg-info/SOURCES.txt
+foobar_secfilecache.egg-info/dependency_links.txt
+foobar_secfilecache.egg-info/requires.txt
+foobar_secfilecache.egg-info/top_level.txt
+project/secfilecache.py

@@ -14,6 +14,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "foobar-secfilecache"
-version = "0.0.2"
+version = "0.0.3"
 #authors = [{ name = "CredX.AI", email = "contact@credx.ai" }]
 #description = "EDGAR Utilities - SEC File Cache"
+
+dependencies = [
+  "python-slugify",
+  "pandas"
+]

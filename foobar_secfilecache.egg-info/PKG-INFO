@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: foobar-secfilecache
+Version: 0.0.3
+Requires-Dist: python-slugify
+Requires-Dist: pandas
