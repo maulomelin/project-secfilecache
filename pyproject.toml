@@ -1,0 +1,19 @@
+########################################
+#   - User guide:
+#       https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+#       https://setuptools.pypa.io/en/latest/userguide/quickstart.html
+#       https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
+#
+#   python -m pip install git+https://github.com/maulomelin/project-secfilecache.git
+#
+########################################
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "foobar-secfilecache"
+version = "0.0.2"
+#authors = [{ name = "CredX.AI", email = "contact@credx.ai" }]
+#description = "EDGAR Utilities - SEC File Cache"
